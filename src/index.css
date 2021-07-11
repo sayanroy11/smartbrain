@@ -3,7 +3,7 @@ body {
   padding: 0;
   font-family: "Lucida Console","Courier New",monospace;
   font-weight: 500;
-  background: linear-gradient(to right,#f21fba 0%,#f21f1f 100%);
+  background: linear-gradient(to right,#f218e3 0%,#f22929 100%);
 }
 button{
   cursor: pointer;
